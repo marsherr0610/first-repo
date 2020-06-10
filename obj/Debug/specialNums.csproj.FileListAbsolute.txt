@@ -1,0 +1,7 @@
+C:\Users\PC\source\repos\ConsoleApp\specialNums\obj\Debug\specialNums.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\ConsoleApp\specialNums\obj\Debug\specialNums.csprojAssemblyReference.cache
+C:\Users\PC\source\repos\ConsoleApp\specialNums\bin\Debug\specialNums.exe.config
+C:\Users\PC\source\repos\ConsoleApp\specialNums\bin\Debug\specialNums.exe
+C:\Users\PC\source\repos\ConsoleApp\specialNums\bin\Debug\specialNums.pdb
+C:\Users\PC\source\repos\ConsoleApp\specialNums\obj\Debug\specialNums.exe
+C:\Users\PC\source\repos\ConsoleApp\specialNums\obj\Debug\specialNums.pdb
